@@ -13,3 +13,18 @@ h2.tl-headline {
   text-transform: none !important;
 }
 
+.tl-timeline p {
+    color: #525252;
+    font-family: "IBM Plex Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+.tl-timeline h3.tl-headline-date {
+    color: #52525);
+    font-family: "IBM Plex Sans";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+}
