@@ -61,3 +61,8 @@ h2.tl-headline {
     background-size: contain;
     background-repeat: no-repeat;
     margin-right: -15px;
+}
+
+.tl-menubar-button {
+    display: none;
+}
