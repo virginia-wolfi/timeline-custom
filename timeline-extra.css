@@ -39,3 +39,15 @@ h2.tl-headline {
     line-height: 16px !important; /* 145.455% */
     letter-spacing: 0.32px;
 }
+
+
+.tl-slidenav-next .tl-slidenav-icon:before {
+  content: "";
+  display: inline-block;
+  width: 53px; /* подберите размер */
+  height: 53px;
+  background-image: url('shevron-right.svg'); /* путь к SVG в репозитории */
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
