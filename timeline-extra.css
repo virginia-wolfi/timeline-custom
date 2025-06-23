@@ -64,7 +64,7 @@ h2.tl-headline {
 }
 
 .tl-media .tl-media-content-container .tl-media-content img {
-    order-radius: 13.37px;
+    border-radius: 13.37px;
 }
 
 .tl-timeline .tl-caption,
