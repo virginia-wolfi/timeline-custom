@@ -23,8 +23,19 @@ h2.tl-headline {
 
 .tl-timeline h3.tl-headline-date {
     color: #525252;
-    font-family: "IBM Plex Sans";
+    font-family: "IBM Plex Sans" !important;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px; /* 150% */
+}
+
+.tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-title, 
+.tl-timeline .tl-slidenav-next .tl-slidenav-title {
+    color: #A8A8A8;
+    font-family: "IBM Plex Sans" !important;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px !important; /* 145.455% */
+    letter-spacing: 0.32px;
 }
