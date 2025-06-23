@@ -67,6 +67,8 @@ h2.tl-headline {
     order-radius: 13.37px;
 }
 
+.tl-timeline .tl-caption,
+.tl-timeline .tl-credit,
 .tl-menubar-button {
     display: none;
 }
