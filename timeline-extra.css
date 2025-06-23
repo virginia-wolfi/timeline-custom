@@ -1,0 +1,7 @@
+h2.tl-headline {
+    color: var(--Brand-Purple-60);
+    font-family: Literata;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 50px;
+}
