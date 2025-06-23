@@ -63,6 +63,10 @@ h2.tl-headline {
     margin-right: -15px;
 }
 
+.tl-media .tl-media-content-container .tl-media-content img {
+    order-radius: 13.37px;
+}
+
 .tl-menubar-button {
     display: none;
 }
