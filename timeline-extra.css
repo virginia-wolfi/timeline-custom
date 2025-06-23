@@ -69,6 +69,7 @@ h2.tl-headline {
 
 .tl-timeline .tl-caption,
 .tl-timeline .tl-credit,
+.tl-timeline .tl-attribution a,
 .tl-menubar-button {
     display: none;
 }
