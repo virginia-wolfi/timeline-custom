@@ -46,8 +46,18 @@ h2.tl-headline {
   display: inline-block;
   width: 53px; /* подберите размер */
   height: 53px;
-  background-image: url('shevron-right.svg'); /* путь к SVG в репозитории */
+  background-image: url('chevron-right.svg'); /* путь к SVG в репозитории */
   background-size: contain;
   background-repeat: no-repeat;
+  margin-left: -15px;
 }
 
+.tl-slidenav-previous .tl-slidenav-icon:before {
+    content: "";
+    display: inline-block;
+    width: 53px;
+    height: 53px;
+    background-image: url('chevron-left.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: -15px;
