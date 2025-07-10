@@ -83,7 +83,6 @@ h2.tl-headline {
    background-color: #f4f4f4;
 }
 
-.tl-timemarker,
-.tl-timemarker-content-container {
+.tl-timemarker .tl-timemarker-content-container {
     background-color: #c6c6c6;
 }
