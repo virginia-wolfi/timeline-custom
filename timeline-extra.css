@@ -74,7 +74,8 @@ h2.tl-headline {
     display: none;
 }
 
-.tl-timeaxis-tick:before {
+.tl-timeaxis-tick:before,
+.tl-timeaxis-background {
   background-color: #c6c6c6;
 }
 
