@@ -73,3 +73,16 @@ h2.tl-headline {
 .tl-menubar-button {
     display: none;
 }
+
+.tl-timeaxis-tick:before {
+  background-color: #c6c6c6;
+}
+
+.tl-timenav {
+   background-color: #f4f4f4;
+}
+
+.tl-timemarker,
+.tl-timemarker-content-container {
+    background-color: #c6c6c6;
+}
